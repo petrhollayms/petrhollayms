@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Petr Hollay (@petrhollayms)
 - 👀 I’m working as architect in Microsoft Graph team.
-- 🌱 I’m currently learning all about Microsoft Graph and LLM models.
+- 🌱 I’m currently learning Rust and ways for improving the team work in GitHub.
 - 📫 How to reach me: petr.hollay@microsoft.com
 
 <!---
