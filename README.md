@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Petr Hollay (@petrhollayms)
-- 👀 I’m working as architect in Microsoft Graph team.
-- 🌱 I’m currently learning Rust and ways for improving the team work in GitHub.
+- 👀 I’m leading our Copilot Extensibility DevX team (Developer Experiences).
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me: petr.hollay@microsoft.com
 
 <!---
