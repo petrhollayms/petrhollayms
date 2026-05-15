@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Petr Hollay (@petrhollayms)
-- 👀 I’m leading our Copilot Extensibility DevX team (Developer Experiences).
-- 🌱 I’m currently learning Rust
 - 📫 How to reach me: petr.hollay@microsoft.com
 
 <!---
